@@ -26,7 +26,7 @@ A data file will be provided alongside this test. The dataset is a CSV which con
   - Produce a dictionary count records group by `OFNS_DESC` in descending order
   - Obtain the first 10 items from the resultant list and output to the console
   
-2. Export to a csv file contains user specify `OFNS_DESC`. For example, user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
+2. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
   - export the result to a csv file
   
 ## Assessment
