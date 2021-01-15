@@ -27,7 +27,7 @@ A data file will be provided alongside this test. The dataset is a CSV which con
   - Obtain the first 10 items from the resultant list and output to the console
   
 2. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
-  - export the result to a csv file
+  - Export the result to a csv file
   
 ## Assessment
 Your code will be reviewed and assessed according to the following:
