@@ -1,4 +1,4 @@
-# Not on the High Street Data Engineering Code Challenge
+# Not On the High Street Data Engineering Code Challenge
 
 # 
 This is a benchmark test to ensure that data engineers, Python developers can show a good understanding of the fundamentals of reading, coding and delivering to a timeframe.
@@ -32,13 +32,13 @@ A data file will be provided alongside this test. The dataset is a CSV which con
 ## Assessment
 Your code will be reviewed and assessed according to the following:
 1. Adherence to the requirements
-2. Code quality – readability &amp; structure of the code
+2. Code quality – readability, structure of the code, performance
 3. Unit test coverage and relevance of the tests
 
 ## Helpful Tips
 If you struggle completing the test or have concerns over certain aspects that is okay – just highlight it to us when you submit your test. 
-Explain what you couldn&#39;t get working and steps you took to solve the problem. Whilst we want to see completed tests 
+Explain what you couldn't get working and steps you took to solve the problem. Whilst we want to see completed tests 
 it is just as important for us to see how you approached an issue and attempted to find a solution. 
 Do not overthink your solution. Keep it simple and use what you know. Write tests only for your code. 
-Don&#39;t forget the ReadMe Avoid creating additional requirements.
+Don't forget the ReadMe Avoid creating additional requirements.
 
