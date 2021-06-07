@@ -12,7 +12,7 @@ along each step (hint: frequent push)
 3. You may use any frameworks or libraries to complete this task, excluding data analysis libraries like Pandas.
 4. Unit tests must be provided
 
-## Objective
+## Objectives
 A data file will be provided alongside this test. The dataset is a CSV which contains publicly available data about New York Police Dept. (NYPD) Arrest Data in 2018 first 6 six months. 
 
 ### Actions
