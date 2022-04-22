@@ -21,16 +21,20 @@ A data file will be provided alongside this test. The dataset is a CSV which con
 3. Demonstrate usage of list comprehension for at least one of the tasks
 4. Allow user input to run all of your script, or specific sections
 5. Add a sqlite db and insert records from csv 
-6. Find the date with the 4th most assault arrests for age_group 18-24
 
 
 ## Requirements
 1. Read in the attached file
   - Produce a dictionary count records group by `OFNS_DESC` in descending order
   - Obtain the first 10 items from the resultant list and output to the console
+
+2. Obtain the count of offense list by age group and PD_CD and find the 4th most number of arrests by PD_CODE for each age group and output to the console.
+
+3. Find the date with the 4th most assault arrests for age_group 18-24 and output to console
   
-2. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
+4. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
   - Export the result to a csv file
+
   
 ## Assessment
 Your code will be reviewed and assessed according to the following:
