@@ -27,16 +27,17 @@ A data file will be provided alongside this test. The dataset is a CSV which con
   - Produce a dictionary count records group by `OFNS_DESC` in descending order
   - Obtain the first 10 items from the resultant list and output to the console
 
-2. Obtain the count of offense list by age group and PD_CD and find the 4th most number of arrests by PD_CODE for each age group and output to the console.
+2. Obtain the count of arrests grouped by age group and PD_CD. 
+   Find the 4th greatest number of arrests by PD_CODE for each age group and output to the console.
 
-3. Find the date with the 4th most assault arrests for age_group 18-24 and output to console
+3. Find the date with the 6th most assault arrests for age_group 18-24 and output to console
   
 4. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
   - Export the result to a csv file
 
 5. Create a callable object such that on the first call, it returns the date with the most assault arrests for age_group 18-24 and the number of arrests. 
    On calling it a second time, it should return the date with the second most arrests in this category and the number of arrests, and so on. 
-   Call this object four times and confirm the result matches the answer to requirement no.3. 
+   Call this object six times and confirm the result matches the answer to requirement no.3. 
 
 6. Instantiate a sqlite db and insert all records from the csv into it.
   
