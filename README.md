@@ -20,6 +20,9 @@ A data file will be provided alongside this test. The dataset is a CSV which con
 2. Read in, process and present the data as specified in the requirements section
 3. Demonstrate usage of list comprehension for at least one of the tasks
 4. Allow user input to run all of your script, or specific sections
+5. Add a sqlite db and insert records from csv 
+6. Find the date with the 4th most assault arrests for age_group 18-24
+
 
 ## Requirements
 1. Read in the attached file
