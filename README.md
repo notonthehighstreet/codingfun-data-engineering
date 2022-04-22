@@ -20,7 +20,6 @@ A data file will be provided alongside this test. The dataset is a CSV which con
 2. Read in, process and present the data as specified in the requirements section
 3. Demonstrate usage of list comprehension for at least one of the tasks
 4. Allow user input to run all of your script, or specific sections
-5. Add a sqlite db and insert records from csv 
 
 
 ## Requirements
@@ -35,6 +34,11 @@ A data file will be provided alongside this test. The dataset is a CSV which con
 4. Export to a csv file contains user specified `OFNS_DESC`. For example, a user can specify full or part of an offence - 'ASSAULT' or 'ASSAULT 3' or 'ASSAULT 3 & RELATED'
   - Export the result to a csv file
 
+5. Create a callable object such that on the first call, it returns the date with the most assault arrests for age_group 18-24 and the number of arrests. 
+   On calling it a second time, it should return the date with the second most arrests in this category and the number of arrests, and so on. 
+   Call this object four times and confirm the result matches the answer to requirement no.3. 
+
+6. Instantiate a sqlite db and insert all records from the csv into it.
   
 ## Assessment
 Your code will be reviewed and assessed according to the following:
